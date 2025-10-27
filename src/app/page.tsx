@@ -202,7 +202,7 @@ export default function Home() {
           tagIcon={MapPin}
           title="Experience Authentic Indian Dining"
           description="Join our community of food lovers and be the first to know about new dishes, special events, and exclusive offers at Spice Palace"
-          imageSrc="https://images.pexels.com/photos/9316203/pexels-photo-9316203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           inputPlaceholder="Enter your email for updates"
           buttonText="Join Our Family"
           termsText="By joining, you agree to receive updates about our latest dishes and special offers. Unsubscribe anytime."
